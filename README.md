@@ -1,2 +1,2 @@
-# Projetos Guiados
- Projetos guiados pelos meus mentores.
+# Projects guided
+Projects guided by my mentors.
